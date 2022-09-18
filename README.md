@@ -6,7 +6,7 @@
 
 Projeto construido no evento Next Level Week da Rocketseat.
 
-[ 🔗clique aqui para acessar](https:/felipesalesls.github.io/NLW-Esportes)
+[ 🔗clique aqui para acessar](https:/FelipeSalesls.github.io/NLW-Esportes/)
 
 
 ## 👨‍💻 Tecnologias
